@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Magic Mouse">
+	<test name="Magic Mouse">
+		<classes>
+			<class name="testClassPackage.TestClass" />
+		</classes>
+	</test>
+</suite>

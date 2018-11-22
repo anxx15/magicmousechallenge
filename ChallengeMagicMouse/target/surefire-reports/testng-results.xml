@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Magic Mouse" duration-ms="103253" started-at="2018-11-22T13:13:36Z" finished-at="2018-11-22T13:15:19Z">
+    <groups>
+    </groups>
+    <test name="Magic Mouse" duration-ms="103253" started-at="2018-11-22T13:13:36Z" finished-at="2018-11-22T13:15:19Z">
+      <class name="testClassPackage.TestClass">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testClassPackage.TestClass@13969fbe]" name="setup" is-config="true" duration-ms="5045" started-at="2018-11-22T08:13:31Z" finished-at="2018-11-22T08:13:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testStep1()[pri:0, instance:testClassPackage.TestClass@13969fbe]" name="testStep1" duration-ms="4260" started-at="2018-11-22T08:13:36Z" finished-at="2018-11-22T08:13:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStep1 -->
+        <test-method status="PASS" signature="testStep2()[pri:0, instance:testClassPackage.TestClass@13969fbe]" name="testStep2" duration-ms="3282" started-at="2018-11-22T08:13:40Z" finished-at="2018-11-22T08:13:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStep2 -->
+        <test-method status="PASS" signature="testStep3()[pri:0, instance:testClassPackage.TestClass@13969fbe]" name="testStep3" duration-ms="149" started-at="2018-11-22T08:13:44Z" finished-at="2018-11-22T08:13:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStep3 -->
+        <test-method status="PASS" signature="testStep4()[pri:0, instance:testClassPackage.TestClass@13969fbe]" name="testStep4" duration-ms="4370" started-at="2018-11-22T08:13:44Z" finished-at="2018-11-22T08:13:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStep4 -->
+        <test-method status="PASS" signature="testStep5()[pri:0, instance:testClassPackage.TestClass@13969fbe]" name="testStep5" duration-ms="123" started-at="2018-11-22T08:13:48Z" finished-at="2018-11-22T08:13:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStep5 -->
+        <test-method status="PASS" signature="testStep6()[pri:0, instance:testClassPackage.TestClass@13969fbe]" name="testStep6" duration-ms="90879" started-at="2018-11-22T08:13:48Z" finished-at="2018-11-22T08:15:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStep6 -->
+        <test-method status="PASS" signature="testStep7()[pri:0, instance:testClassPackage.TestClass@13969fbe]" name="testStep7" duration-ms="163" started-at="2018-11-22T08:15:19Z" finished-at="2018-11-22T08:15:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStep7 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testClassPackage.TestClass@13969fbe]" name="tearDown" is-config="true" duration-ms="769" started-at="2018-11-22T08:15:19Z" finished-at="2018-11-22T08:15:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testClassPackage.TestClass -->
+    </test> <!-- Magic Mouse -->
+  </suite> <!-- Magic Mouse -->
+</testng-results>
